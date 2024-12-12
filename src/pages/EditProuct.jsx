@@ -1,5 +1,5 @@
-const EditProuct = () => {
-  return <div>EditProuct</div>;
+const EditProduct = () => {
+  return <div>EditProduct</div>;
 };
 
-export default EditProuct;
+export default EditProduct;
